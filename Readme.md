@@ -4,11 +4,11 @@
 
 This project is a macro pad using a Raspberry Pi Pico, an SH1106 OLED display, and 5 buttons. It allows you to create custom profiles for different applications and switch between them using the buttons.
 
-## Video Example
+<!-- ## Video Example
 
 Here is a video demonstration of the macro pad in action:
 
-[Video Example](mediaForReadme/oled-example.mp4)
+[Video Example](mediaForReadme/oled-example.mp4) -->
 
 ## Features
 
