@@ -1,0 +1,7 @@
+Adafruit CircuitPython 9.1.4 on 2024-09-17; Raspberry Pi Pico with rp2040
+Board ID:raspberry_pi_pico
+UID:E66178C127420C29
+boot.py output:
+Traceback (most recent call last):
+  File "boot.py", line 7, in <module>
+TypeError: unexpected keyword argument 'device_name'
