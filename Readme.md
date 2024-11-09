@@ -8,10 +8,7 @@ This project is a macro pad using a Raspberry Pi Pico, an SH1106 OLED display, a
 
 Here is a video demonstration of the macro pad in action:
 
-<video controls>
-  <source src="mediaForReadme/oled-example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video Example](mediaForReadme/oled-example.mp4)
 
 ## Features
 
