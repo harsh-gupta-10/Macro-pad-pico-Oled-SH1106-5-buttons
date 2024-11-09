@@ -19,7 +19,7 @@ This project is a macro pad using a Raspberry Pi Pico, an SH1106 OLED display, a
 ## Hardware
 
 - Raspberry Pi Pico
-- SH1106 OLED display
+- SH1106 OLED display (1.3 inch's oled display)
 - 6 push buttons (1 for Profile changing)
 - Breadboard and jumper wires
 
