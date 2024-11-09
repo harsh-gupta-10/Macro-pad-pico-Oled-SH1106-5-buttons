@@ -54,6 +54,10 @@ Here is a video demonstration of the macro pad in action:
 2. Upload the `code.py` file and the `profiles` folder to the root of your Pico.
 3. Reset the Pico to run the `code.py` script.
 
+## Bugs/Issues (I know)
+
+1. vOled Display have random  Ghosting/Overlapping at Profile name labels, and at profile number box
+
 ## Example
 
 Here is an example of how to set up the display and buttons in `code.py`:
